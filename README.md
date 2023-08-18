@@ -1,6 +1,16 @@
 # Connect to IMAP through Socks
 
+## Dependencies
+
+- PySocks 1.7.1+
+
 ## Installation
+
+```bash
+pip install socksimap
+```
+
+or
 
 ```bash
 pip install git+https://github.com/optinsoft/socksimap.git

@@ -24,7 +24,7 @@ from imaplib import IMAP4, IMAP4_PORT, IMAP4_SSL_PORT
 from socks import create_connection, PROXY_TYPE_SOCKS4, PROXY_TYPE_SOCKS5
 import ssl
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 class SocksIMAP4(IMAP4):
 
